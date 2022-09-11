@@ -1,0 +1,39 @@
+Average percent of the civilian population engaged in a primary activity per day,
+Average time spent per day in activities and,
+Average hours per day for persons who engaged in the activity,
+2019 annual averages
+
+Primary activities                       | % engaged | Time spent  | h. engaged
+-------------------------------------------------------------------------------
+Sleeping                                 |      100% |        8h50 |       8h50
+Personal care                            |      100% |        0h46 |       0h46
+Eating and drinking                      |       96% |        1h10 |       1h13
+Household activities
+   Mens                                  |       71% |        1h23 |       1h56
+   Women                                 |       85% |        2h09 |       2h32
+Watching television                      |       78% |        2h48 |       3h36
+Working
+   Men                                   |       51% |        4h21 |       8h34
+   Women                                 |       39% |        2h54 |       7h31
+Purchasing goods and services
+   Men                                   |       38% |        0h45 |       1h42
+   Women                                 |       49% |        0h45 |       1h42
+Socializing and communicating            |       35% |        0h38 |       1h49
+Caring for and helping household members
+   Men                                   |       20% |        0h29 |       1h36
+   Women                                 |       27% |        0h29 |       2h22
+Telephone calls, mail, e-mail            |       21% |        0h09 |       0h45
+Other activities                         |       20% |        0h16 |       1h21
+Sports, exercise, recreation
+   Men                                   |       21% |        0h18 |       1h54
+   Women                                 |       18% |        0h18 |       1h15
+Organizational, religious activities     |       13% |        0h18 |       2h14
+Caring for, helping nonhousehold members |       11% |        0h11 |       1h46
+Educational activities                   |        8% |        0h27 |       5h43
+
+---
+Authors : Bureau of Labor Statistics, U.S. Department of Labor (2019)
+Title : AMERICAN TIME USE SURVEY - 2019 RESULTS
+Page : 9
+Table : 1
+File : https://www.bls.gov/news.release/archives/atus_06252020.pdf
